@@ -1,5 +1,5 @@
 ---
-title: coding more
+title:  Coding
 layout: post
 author: ryan.thornberry
 permalink: /coding-more/
