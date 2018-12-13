@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Getting as far as we can on Codecademy</td>
+    <td>Codecademy</td>
     <td>Date</td>
-    <td>10/11/18</td>
+    <td>20/11/18</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Got quite far with codecademy </td>
+    <td>Has a high level with codecademy </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>The reach a high level of understandment </td>
+    <td>The reach a high level of ability</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -43,7 +43,7 @@ published: true
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I had to ask questions regarding my code</td>
+    <td>I had to ask questions about my functions </td>
   </tr>
   <tr>
     <td>Independence</td>
@@ -55,7 +55,7 @@ published: true
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I engaged with the points Mr Keen gave us </td>
+    <td>I engaged with the discussion Mr Keen gave us </td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Focus more</td>
+    <td>Concentrate</td>
     <td></td>
   </tr>
 </table>
