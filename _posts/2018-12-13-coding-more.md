@@ -11,9 +11,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>codecademy</td>
+    <td>            codecademy</td>
     <td>Date</td>
-    <td>10/10/18</td>
+    <td>10/11/18</td>
   </tr>
 </table>
 
